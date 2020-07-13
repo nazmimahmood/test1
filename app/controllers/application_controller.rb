@@ -7,8 +7,8 @@ class ApplicationController < ActionController::Base
   #     #error
   #   end
   # end
-  #
-  # if Rails.env.production?
+  # something new
+  # Rails.env.production?
   #   validate_user
   # end pp {}
 end
